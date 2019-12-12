@@ -1,0 +1,39 @@
+{
+    "type": "AdaptiveCard",
+    "version": "1.0",
+    "body": [
+        {
+            "type": "FactSet",
+            "facts": [
+                {
+                    "title": "Name",
+                    "value": ""
+                },
+                {
+                    "title": "Department",
+                    "value": ""
+                },
+                {
+                    "title": "Title",
+                    "value": ""
+                },
+                {
+                    "title": "Email",
+                    "value": ""
+                },
+                {
+                    "title": "Mobile",
+                    "value": ""
+                },
+                {
+                    "title": "Extension",
+                    "value": ""
+                }
+            ]
+        },
+        {
+            "type": "ActionSet"
+        }
+    ],
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json"
+}
