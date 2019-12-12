@@ -51,7 +51,7 @@ class UserProfileDialog extends ComponentDialog {
                 await step.endDialog();
                 return await step.beginDialog(this.id); 
             }
-            var furl= "http://10.22.20.28:8001/find/givenname=" + fname + "?sn="+lname;
+            var furl= 'api here';
             var url= furl.trim();
             let response = await fetch(url);
             let data = JSON.parse(JSON.stringify(await response.json()));
