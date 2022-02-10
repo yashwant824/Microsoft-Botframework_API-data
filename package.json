@@ -21,7 +21,7 @@
         "dotenv": "^8.2.0",
         "extends-classes": "^1.0.5",
         "ludown": "^1.4.0",
-        "node-sass": "^4.13.0",
+        "node-sass": "^7.0.0",
         "path": "^0.12.7",
         "restify": "~8.4.0"
     },
